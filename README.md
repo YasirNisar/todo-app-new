@@ -1,8 +1,3 @@
-Got it 👍
-I’ll write a **clean, professional README** assuming this is your **React-based Todo App** project (the one using Context / localStorage, based on our recent work). You can tweak names later if needed.
-
----
-
 # 📝 Todo App (React)
 
 A simple and clean **Todo List application** built with **React**.
@@ -62,8 +57,8 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+git clone https://github.com/YasirNisar/todo-app-new.git
+cd todo-app-new
 ```
 
 ### 2️⃣ Install dependencies
@@ -161,12 +156,3 @@ This project is licensed under the **MIT License**.
 Frontend Developer | React Enthusiast
 
 ---
-
-If you want, I can also:
-
-* ✅ Customize this for **GitHub / Upwork**
-* ✅ Make a **beginner-friendly README**
-* ✅ Add **screenshots section**
-* ✅ Write a **backend-ready README**
-
-Just tell me 👌
